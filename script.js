@@ -1,5 +1,6 @@
 function firstChar(text) {
   // your code here
+	return text.toLowerCase() + "-" + text.toUpperCase();
 }
 
 // Do not change the code below
